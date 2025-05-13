@@ -2,7 +2,7 @@
 
 This repository contains data, code, and documentation for the ICWSM 2026 paper:
 
-** "Bridging the Narrative Divide: Cross-Platform Discourse Networks in Fragmented Ecosystems"**
+**Bridging the Narrative Divide: Cross-Platform Discourse Networks in Fragmented Ecosystems**
 
 We present a scalable, platform-agnostic framework for constructing user-user graphs based on shared narrative participation, enabling analysis of discourse dynamics across fragmented platforms. Using data from X (formerly Twitter) and Truth Social during the 2024 U.S. Presidential election, we show that a small, structurally embedded set of users, "bridge users" we associated with the majority of narrative migration between platforms.
 
@@ -43,5 +43,3 @@ If you use this code or data in your work, please cite:
 ## Contact
 
 For questions or collaboration, reach out to \[anonymous].
-
--
